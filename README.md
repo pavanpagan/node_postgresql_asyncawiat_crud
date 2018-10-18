@@ -28,8 +28,10 @@ To import that to your postgresql
 
 * First Create database with name "kotmaster"
 
-# running
 * command is ----- psql -d kotmaster -f /Your_file_path/kotmaster.sql
+
+# running
+
 1.npm install
 
 2. to run-------- npm start
