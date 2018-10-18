@@ -26,7 +26,7 @@
 ---There is kotmaster.sql database file------------------------------------------------------------------------------------------------------------------
 To import that to your postgresql 
 
-* First Create database with name "kot master"
+* First Create database with name "kotmaster"
 
 * cmd is ----- psql -d kotmaster -f /Your_file_path/kotmaster.sql
 1.npm install
