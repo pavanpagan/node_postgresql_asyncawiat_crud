@@ -28,14 +28,13 @@ To import that to your postgresql
 
 * First Create database with name "kotmaster"
 
-* cmd is ----- psql -d kotmaster -f /Your_file_path/kotmaster.sql
+* command is ----- psql -d kotmaster -f /Your_file_path/kotmaster.sql
 1.npm install
 
-2. to run----------npm start
+2. to run-------- npm start
 
-3.First add item types dynamically using sql queries
-
-
+3.First add item types to item_type table dynamically using sql queries
+item type can be veg,nonveg
 
 4.Api to add category http://localhost:5000/admin/AddItemCategory
 
