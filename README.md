@@ -1,8 +1,9 @@
 # node_postgresql_asyncawait_crud
 
-#Simple Menu Api....
+# Simple Menu Api....
 
----------Needed--------------------------------------------------------------------------------------------------------------------
+# Needed
+
 * Node js Recent version
 
 * postgresql 9.5.14
@@ -11,7 +12,7 @@
 
 * Any Editor am using vscode recent version
 
------------Links To Learn------------------------------------------------------------------------------------------------------------------
+# Links To Learn
 
 * https://nodejs.org/en/  for node js
 
@@ -21,13 +22,13 @@
 
 * https://code.visualstudio.com/  To download vscode
 
+# Adding database file
 
-
----There is kotmaster.sql database file------------------------------------------------------------------------------------------------------------------
 To import that to your postgresql 
 
 * First Create database with name "kotmaster"
 
+# running
 * command is ----- psql -d kotmaster -f /Your_file_path/kotmaster.sql
 1.npm install
 
